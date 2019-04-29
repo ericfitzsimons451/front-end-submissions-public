@@ -40,9 +40,9 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ## Eric Fitzsimons
 
-* [Node Server Tutorial]()
-* [Annotated Express server file]()
-* [Promise Practice Exercises]()
+* [Node Server Tutorial](https://repl.it/@ericfitzsimons4/EnormousOpenNaturaldocs)
+* [Annotated Express server file](https://github.com/Inzurriaga/trapper-keeper-api)
+* [Promise Practice Exercises](https://repl.it/@ericfitzsimons4/SlowBestLocations)
 
 ## Gabriel Inzurriaga
 
